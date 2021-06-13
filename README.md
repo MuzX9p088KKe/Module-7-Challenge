@@ -19,11 +19,11 @@ In order to do so, after the company provided us with the database, an analysis 
 
 ![retiring_titles](https://user-images.githubusercontent.com/76575162/121808222-18f8ab80-cc1d-11eb-98a6-97f715cb15c2.png)
 
-The above table reflected which titles the soon-to-be retirees and their count. It can also be accessed HERE.
+The above table reflected which titles the soon-to-be retirees and their count.
 
 * After analyzing which roles the departing employees held, it seemed like a large number of them are senior-level positions which would require quite a few years with the company to be trained properly. 
 
-* Lastly, a list of workers eligible for the mentoring program was put together. The goal was to filter all current employees born in 1965 to add them to the list of potential mentors who would train the next wave of new hires. It resulted in a list of 1549 employees which can be accessed HERE.
+* Lastly, a list of workers eligible for the mentoring program was put together. The goal was to filter all current employees born in 1965 to add them to the list of potential mentors who would train the next wave of new hires. It resulted in a list of 1549 employees which can be accessed [HERE.](https://github.com/MuzX9p088KKe/Module-7-Challenge/blob/main/Data/mentorship_eligibility.csv)
 
 
 ## Summary: 
