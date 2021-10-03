@@ -1,4 +1,4 @@
-# Module-7-Challenge: Employee Database Analysis
+# Employee Database Analysis
 
 
 ## Overview of the analysis:
